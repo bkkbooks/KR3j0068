@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3j0068/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3j0068/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 拾遺錄
+  date: '2015-08-24 23:21:52.368712'
+  source:
+    repository: kanripo
+    path: KR3j0068
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0068_000-WYG.yaml, hash: 'sha256:18e400909beee69dfd6e717ef46a5abaf2466d4967e37a45a964c2bea5160aae'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3j0068_000-WYG.markers.yaml, hash: 'sha256:dcf6e993fdcb22c2cf7c14b857f5fbedb273aa70546c0ba873b044171af2c0c0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3j0068_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 695
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3j0068_WYG_000-4a
+    span:
+    - body
+    - 695
+    - 20791
+  label: 拾遺録
+  type: section
+  level: 1
+hash: sha256:ffe11a0c75e0deef4e87da6e790defcea4a1ec17df16ea9d394aa2fdcc97a910
