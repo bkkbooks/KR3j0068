@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3j0068_000.yaml, hash: 'sha256:899edf3ca4ad5679d1d2860843409d0024b03befe80cd8c8fba93d9794848757'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0068_000.markers.yaml, hash: 'sha256:560fe55bbaf1a36b074b6704f99964f26de8824dc1d48cf651b8c9920fcbf839'}
+  - {seq: 0, role: markers, filename: assets/KR3j0068_000.markers.yaml, hash: 'sha256:6ef31e7a067390040c53474b1134b70b715e753016238f40f98bbbfa9ef794be'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,7 @@ table_of_contents:
   label: 拾遺録
   type: section
   level: 1
-hash: sha256:c085c429fd542935b1d8e00c43655c5664218c4a9bfcb394a882665d3a1bc996
+hash: sha256:e3fee96694e22f069bdde22c2e3419d2ea97613fd25297d885bd805014139766
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
